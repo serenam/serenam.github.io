@@ -1,0 +1,24 @@
+body {
+	background: url("images/logo"); 
+}
+h1 {
+	font-style: bold;
+	text-align: left;
+	text-decoration: underline;
+	text-transform: capitalize 
+	color: #00FFFF;
+}
+h3 {
+	text-align: center;
+	text-decoration: none;
+	color: #FFF;
+}
+h4	{
+	text-align: center;
+	text-decoration: none;
+	color: #00FFFF;
+}
+h5	{
+	color: #00FFFF;
+	text-align: center;
+}
