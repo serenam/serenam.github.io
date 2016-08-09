@@ -1,9 +1,9 @@
 body {
-	background: url("images/logo"); 
+	background: url("logo.jpg"); 
 }
 h1 {
 	font-style: bold;
-	text-align: left;
+	text-align: right;
 	text-decoration: underline;
 	text-transform: capitalize 
 	color: #00FFFF;
@@ -11,7 +11,7 @@ h1 {
 h3 {
 	text-align: center;
 	text-decoration: none;
-	color: #FFF;
+	color: #00FFFF;
 }
 h4	{
 	text-align: center;
